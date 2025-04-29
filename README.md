@@ -2,7 +2,7 @@
 
 # 💳 Bytehash Labs Assignment – Credit Card Data Extractor
 
-This Streamlit app allows you to **scrape websites** or **upload PDFs** and automatically **extract structured credit card data** 
+This Streamlit app allows you to **scrape websites** or **upload PDFs** and automatically **extract structured credit card data**.
 
 ---
 
@@ -63,8 +63,8 @@ google-generativeai
 
 ## 🔐 Setup
 
-1. Get your **Google Gemini API key** from:
-   [https://makersuite.google.com/app/apikey](https://makersuite.google.com/app/apikey)
+1. Get your **Google Gemini API key** from:  
+   👉 [https://makersuite.google.com/app/apikey](https://makersuite.google.com/app/apikey)
 
 2. Paste the API key into the **Streamlit sidebar** when prompted.
 
@@ -82,7 +82,7 @@ Then open the URL shown in your terminal (typically `http://localhost:8501`).
 
 ## 📤 Output
 
-The structured output is shown in the "Structured Data" tab and can be downloaded as a `JSON` file.
+The structured output is shown in the **"Structured Data"** tab and can be downloaded as a `JSON` file.
 
 Example JSON format:
 ```json
@@ -109,9 +109,9 @@ Sample webpages for testing:
 
 - [Finology Credit Cards](https://select.finology.in/credit-card)
 - [American Express Rewards Cards](https://www.americanexpress.com/in/credit-cards/card-types/rewards-cards/?intlink=in-en-hp-product2-pr-rewardscards-25032021)
-- [HDFC Bank Business Credit Cards](https://www.hdfcbank.com/personal/pay/cards/business-credit-cards)
+- [Best Credit Cards in India – CardExpert](https://www.cardexpert.in/best-credit-cards-india/)
 
-The sample PDF is available in the `sample.pdf` file.
+📄 A sample PDF is also available in the `sample/` folder.
 
 ---
 
@@ -128,4 +128,4 @@ MIT License – Free to use and modify.
 
 ---
 
-This version of the README has been corrected with links to the sample data and other updates. If you'd like to add images or screenshots, let me know!
+Let me know if you’d like to include usage screenshots or a GIF demo of the app!
