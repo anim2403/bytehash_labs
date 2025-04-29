@@ -1,5 +1,3 @@
-Here's the corrected **README.md** with the necessary adjustments:
-
 ---
 
 # 💳 Bytehash Labs Assignment – Credit Card Data Extractor
