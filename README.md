@@ -2,7 +2,7 @@
 
 # 💳 Bytehash Labs Assignment – Credit Card Data Extractor
 
-This Streamlit app allows you to **scrape websites** or **upload PDFs** and automatically **extract structured credit card data** using **Google's Gemini AI**.
+This Streamlit app allows you to **scrape websites** or **upload PDFs** and automatically **extract structured credit card data** 
 
 ---
 
